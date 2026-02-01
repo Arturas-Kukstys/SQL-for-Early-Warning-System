@@ -1,5 +1,6 @@
 # SQL užklausos duomenims paimti iš KTU IF Moodle duomenų bazės
 Šios SQL užklausos buvo panaudotos kuriant ankstyvojo įspėjimo sistemą studijų programoje. Pateikiami tik pavyzdžiai, kurie **neatskleidžia jokios jautrios informacijos**.
+Daugiau apie projektą: https://www.mdpi.com/3064190
 
 ```sql
 -- Studijų modulio identifikacijos numerio paieška
